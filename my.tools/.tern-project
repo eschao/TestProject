@@ -1,0 +1,15 @@
+{
+  "libs": [
+    "browser",
+    "ecma6",
+    "electron"
+  ],
+  "loadEagerly": [
+    "/Users/chao/Data/github/electron/lib/*.js"
+  ],
+  "plugins": {
+    "node": {},
+    "es_modules": {},
+    "electron": {}
+  }
+}
